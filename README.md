@@ -16,3 +16,4 @@ That's it, you should be configured and connected.
 To disconnect type in `globalprotect disconnect` to reconnect later type `globalprotect connect`.
 
 That's all!
+If you want to run AppsAnywhere on linux you can check [this guide](https://github.com/sammuraii/AppsAnywhere-on-Linux/blob/main/README.md) out.
