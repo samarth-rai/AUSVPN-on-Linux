@@ -1,7 +1,7 @@
 # AUSVPN-on-Linux
 A guide on how to install AUSVPN on linux.
 
-The process is actually pretty straightforward. First download the .tgz file from [here](http://ping.stonybrook.edu/pub/PanGPLinux-5.1.1-c17.tgz)
+The process is actually pretty straightforward. First download the .tgz file from [here](http://ping.stonybrook.edu/pub/PanGPLinux-5.1.1-c17.tgz).
 
 Next, install using the instructions for your distribution. 
 If you're running a debaian based distro like Pop OS, Ubuntu, Elementary OS etc. 
